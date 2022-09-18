@@ -5,6 +5,9 @@ This is tutorial on how to build a state-of-the-art ConvNext using Flax. See [co
 
 *Code taken from [Getting started with Flax](https://flax.readthedocs.io/en/latest/getting_started.html)*
  
+ 
+**Note**: Due to limited usage, training on Colab could be timed out before training
+
 ## Reference
 [Flax documentation](https://flax.readthedocs.io/en/latest/index.html)
 
